@@ -1,0 +1,30 @@
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.csprojAssemblyReference.cache
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.Properties.Resources.resources
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.csproj.GenerateResource.cache
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\bin\Debug\rastgelelCalisma.exe.config
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\bin\Debug\rastgelelCalisma.exe
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\bin\Debug\rastgelelCalisma.pdb
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.Form1.resources
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.exe
+C:\Users\Sbpc\source\repos\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.pdb
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\bin\Debug\rastgelelCalisma.exe.config
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\bin\Debug\rastgelelCalisma.exe
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\bin\Debug\rastgelelCalisma.pdb
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.csprojAssemblyReference.cache
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.Form1.resources
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.Properties.Resources.resources
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.csproj.GenerateResource.cache
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.csproj.CoreCompileInputs.cache
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.exe
+C:\Users\akteke\Downloads\rastgelelCalisma\rastgelelCalisma\obj\Debug\rastgelelCalisma.pdb
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\bin\Debug\rastgelelCalisma.exe.config
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\bin\Debug\rastgelelCalisma.exe
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\bin\Debug\rastgelelCalisma.pdb
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\obj\Debug\rastgelelCalisma.csprojAssemblyReference.cache
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\obj\Debug\rastgelelCalisma.Form1.resources
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\obj\Debug\rastgelelCalisma.Properties.Resources.resources
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\obj\Debug\rastgelelCalisma.csproj.GenerateResource.cache
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\obj\Debug\rastgelelCalisma.csproj.CoreCompileInputs.cache
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\obj\Debug\rastgelelCalisma.exe
+C:\Users\Sbpc\source\repos\rastgelelCalisma - revizyon\rastgelelCalisma\obj\Debug\rastgelelCalisma.pdb
