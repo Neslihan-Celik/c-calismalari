@@ -1,0 +1,10 @@
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\bin\Debug\randomCalismam.exe.config
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\bin\Debug\randomCalismam.exe
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\bin\Debug\randomCalismam.pdb
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\obj\Debug\randomCalismam.csprojAssemblyReference.cache
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\obj\Debug\randomCalismam.Form1.resources
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\obj\Debug\randomCalismam.Properties.Resources.resources
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\obj\Debug\randomCalismam.csproj.GenerateResource.cache
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\obj\Debug\randomCalismam.csproj.CoreCompileInputs.cache
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\obj\Debug\randomCalismam.exe
+C:\Users\Sbpc\source\repos\randomCalismam\randomCalismam\obj\Debug\randomCalismam.pdb

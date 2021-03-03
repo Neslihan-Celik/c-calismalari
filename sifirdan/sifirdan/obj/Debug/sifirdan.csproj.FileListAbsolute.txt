@@ -1,0 +1,11 @@
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\bin\Debug\sifirdan.exe.config
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\bin\Debug\sifirdan.exe
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\bin\Debug\sifirdan.pdb
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\obj\Debug\sifirdan.csprojAssemblyReference.cache
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\obj\Debug\sifirdan.Form1.resources
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\obj\Debug\sifirdan.Form2.resources
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\obj\Debug\sifirdan.Properties.Resources.resources
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\obj\Debug\sifirdan.csproj.GenerateResource.cache
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\obj\Debug\sifirdan.csproj.CoreCompileInputs.cache
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\obj\Debug\sifirdan.exe
+C:\Users\Sbpc\source\repos\sifirdan\sifirdan\obj\Debug\sifirdan.pdb

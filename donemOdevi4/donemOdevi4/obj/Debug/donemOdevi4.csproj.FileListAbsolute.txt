@@ -1,0 +1,11 @@
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\bin\Debug\donemOdevi4.exe.config
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\bin\Debug\donemOdevi4.exe
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\bin\Debug\donemOdevi4.pdb
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\obj\Debug\donemOdevi4.csprojAssemblyReference.cache
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\obj\Debug\donemOdevi4.anaSayfa.resources
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\obj\Debug\donemOdevi4.paraYukle.resources
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\obj\Debug\donemOdevi4.Properties.Resources.resources
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\obj\Debug\donemOdevi4.csproj.GenerateResource.cache
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\obj\Debug\donemOdevi4.csproj.CoreCompileInputs.cache
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\obj\Debug\donemOdevi4.exe
+C:\Users\Sbpc\source\repos\donemOdevi4\donemOdevi4\obj\Debug\donemOdevi4.pdb
